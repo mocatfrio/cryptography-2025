@@ -1,0 +1,1 @@
+Test ini adalah teks untuk XOR cipher
